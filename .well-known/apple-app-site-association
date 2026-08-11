@@ -1,4 +1,12 @@
 {
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["B5FP35VMV6.com.codehouse.secureboxMobile"],
+        "components": [{"/": "/aasa-test"}]
+      }
+    ]
+  },
   "webcredentials": {
     "apps": ["B5FP35VMV6.com.codehouse.secureboxMobile"]
   }
